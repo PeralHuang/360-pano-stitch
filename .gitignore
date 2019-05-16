@@ -130,3 +130,4 @@ dmypy.json
 .pyre/
 Python-Multiple-Image-Stitching-master.zip
 fit.py
+.vscode/settings.json
